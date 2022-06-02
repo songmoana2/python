@@ -1,3 +1,4 @@
+# product CRUD
 import os
 import sys
 import pymysql # MySQL데이터베이스를 사용하기 위한 라이브러리를 등록함
