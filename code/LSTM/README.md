@@ -1,4 +1,4 @@
-⚠️About code..⚠️
+# ⚠️About code..⚠️
 -
 * By using LSTM algorithm, predict stock closing price
 * SAMSUNG stock data
